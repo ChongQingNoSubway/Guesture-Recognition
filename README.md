@@ -1,4 +1,5 @@
-=================================
+## this project mainly use CNN and machine learning to recognize the guesture
+
 ## Project Runing
 There are multiple ways to run the app:
 - keep test videos in `test` folder
